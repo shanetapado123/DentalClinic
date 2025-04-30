@@ -1,0 +1,26 @@
+[29-Apr-2025 15:41:19 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:41:19 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:41:19 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:41:19 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
+[29-Apr-2025 15:41:19 Europe/Berlin] Database error in password reset: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'field list'
+[29-Apr-2025 15:41:24 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:41:24 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:41:24 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:41:24 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
+[29-Apr-2025 15:41:28 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:41:28 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:41:28 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:41:28 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
+[29-Apr-2025 15:41:28 Europe/Berlin] Database error in password reset: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'field list'
+[29-Apr-2025 15:42:37 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:42:37 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:42:37 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:42:37 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
+[29-Apr-2025 15:42:48 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:42:48 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:42:48 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:42:48 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
+[29-Apr-2025 15:42:55 Europe/Berlin] PHP Warning:  Constant DB_HOST already defined in C:\xampp2\htdocs\Dental\db_config.php on line 25
+[29-Apr-2025 15:42:55 Europe/Berlin] PHP Warning:  Constant DB_USER already defined in C:\xampp2\htdocs\Dental\db_config.php on line 26
+[29-Apr-2025 15:42:55 Europe/Berlin] PHP Warning:  Constant DB_PASS already defined in C:\xampp2\htdocs\Dental\db_config.php on line 27
+[29-Apr-2025 15:42:55 Europe/Berlin] PHP Warning:  Constant DB_NAME already defined in C:\xampp2\htdocs\Dental\db_config.php on line 28
